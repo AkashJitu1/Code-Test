@@ -1,0 +1,18 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet-isolated",
+
+    "AZURE_OPENAI_ENDPOINT": "https://abhis-mma4xx8m-eastus2.cognitiveservices.azure.com/",
+    "AZURE_OPENAI_API_KEY": "",
+    "AZURE_OPENAI_DEPLOYMENT": "Akash_Kumar",
+
+    "REDIS_CONNECTION_STRING": "",
+    "USE_REDIS": "true",
+
+    "CACHE_TTL_SECONDS": "3600",
+    "MAX_HISTORY_TURNS": "10",
+    "MAX_MESSAGE_LENGTH": "2000"
+  }
+}
